@@ -1,8 +1,8 @@
-#ChatCheese v1.5.0.1
+ChatCheese v1.5.0.1
 
-##developed by saiki sarkar [fahim Hossain Saiki, 2016133091] and tarequl nabi tareq [2016133027]
+Developed by saiki sarkar [fahim Hossain Saiki, 2016133091] and tarequl nabi tareq [2016133027]
 
-*Technologies used:
+Technologies used:
 
 1. Java
 2. SQL server [free, provided by db4free.net]
