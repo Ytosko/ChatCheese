@@ -1,0 +1,120 @@
+
+
+Version:	3.12
+CmdLine:	D:\Java desktop\ChatCheese\ChatCheese.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Java desktop\ChatCheese\.
+Java min ver:	1.007.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_251\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_251
+Check launcher:	C:\Program Files\Java\jre1.8.0_251\bin\javaw.exe (OK)
+Match:		1.008.000_251
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_231
+Ignore:		1.008.000_231
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\12.0.2
+Check launcher:	C:\Program Files\Java\jdk-12.0.2\bin\javaw.exe (OK)
+Match:		1.012.000_002
+Runtime used:	1.012.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-12.0.2\bin\javaw.exe
+Launcher args:	-jar "D:\Java desktop\ChatCheese\ChatCheese.exe"
+Args length:	48/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\Java desktop\ChatCheese\ChatCheese.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Java desktop\ChatCheese\.
+Java min ver:	1.007.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_251\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_251
+Check launcher:	C:\Program Files\Java\jre1.8.0_251\bin\javaw.exe (OK)
+Match:		1.008.000_251
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_231
+Ignore:		1.008.000_231
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\12.0.2
+Check launcher:	C:\Program Files\Java\jdk-12.0.2\bin\javaw.exe (OK)
+Match:		1.012.000_002
+Runtime used:	1.012.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-12.0.2\bin\javaw.exe
+Launcher args:	-jar "D:\Java desktop\ChatCheese\ChatCheese.exe"
+Args length:	48/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\Java desktop\ChatCheese\ChatCheese.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Java desktop\ChatCheese\.
+Java min ver:	1.007.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_251\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_251
+Check launcher:	C:\Program Files\Java\jre1.8.0_251\bin\javaw.exe (OK)
+Match:		1.008.000_251
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_231
+Ignore:		1.008.000_231
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\12.0.2
+Check launcher:	C:\Program Files\Java\jdk-12.0.2\bin\javaw.exe (OK)
+Match:		1.012.000_002
+Runtime used:	1.012.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-12.0.2\bin\javaw.exe
+Launcher args:	-jar "D:\Java desktop\ChatCheese\ChatCheese.exe"
+Args length:	48/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\Java desktop\ChatCheese\ChatCheese.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Java desktop\ChatCheese\.
+Java min ver:	1.007.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_251\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_251
+Check launcher:	C:\Program Files\Java\jre1.8.0_251\bin\javaw.exe (OK)
+Match:		1.008.000_251
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_231
+Ignore:		1.008.000_231
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\12.0.2
+Check launcher:	C:\Program Files\Java\jdk-12.0.2\bin\javaw.exe (OK)
+Match:		1.012.000_002
+Runtime used:	1.012.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-12.0.2\bin\javaw.exe
+Launcher args:	-jar "D:\Java desktop\ChatCheese\ChatCheese.exe"
+Args length:	48/32768 chars
+Exit code:	0

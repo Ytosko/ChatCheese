@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="swt.jar" sourcepath="src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="http://help.eclipse.org/stable/nftopic/org.eclipse.platform.doc.isv/reference/api/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="org.eclipse.swt"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ytosk/.p2/pool/plugins/org.eclipse.core.databinding_1.7.500.v20190624-2109.jar" sourcepath="C:/Users/Ytosk/.p2/pool/plugins/org.eclipse.core.databinding_1.7.500.v20190624-2109.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ytosk/.p2/pool/plugins/org.eclipse.core.databinding.beans_1.5.100.v20190624-2109.jar" sourcepath="C:/Users/Ytosk/.p2/pool/plugins/org.eclipse.core.databinding.beans_1.5.100.v20190624-2109.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ytosk/.p2/pool/plugins/org.eclipse.core.databinding.observable_1.8.0.v20190805-1157.jar" sourcepath="C:/Users/Ytosk/.p2/pool/plugins/org.eclipse.core.databinding.observable_1.8.0.v20190805-1157.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ytosk/.p2/pool/plugins/org.eclipse.core.databinding.property_1.7.100.v20190805-1157.jar" sourcepath="C:/Users/Ytosk/.p2/pool/plugins/org.eclipse.core.databinding.property_1.7.100.v20190805-1157.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ytosk/.p2/pool/plugins/org.eclipse.jface.databinding_1.9.100.v20190805-1255.jar" sourcepath="C:/Users/Ytosk/.p2/pool/plugins/org.eclipse.jface.databinding_1.9.100.v20190805-1255.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ytosk/.p2/pool/plugins/org.eclipse.equinox.common_3.10.500.v20190815-1535.jar" sourcepath="C:/Users/Ytosk/.p2/pool/plugins/org.eclipse.equinox.common_3.10.500.v20190815-1535.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ytosk/.p2/pool/plugins/com.ibm.icu_64.2.0.v20190507-1337.jar" sourcepath="C:/Users/Ytosk/.p2/pool/plugins/com.ibm.icu_64.2.0.v20190507-1337.jar"/>
+	<classpathentry exported="true" kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="mysql-connector-java-5.1.48-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

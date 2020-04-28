@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <obj>w32api/crt2.o</obj>
+  <obj>head/guihead.o</obj>
+  <obj>head/head.o</obj>
+  <lib>w32api/libmingw32.a</lib>
+  <lib>w32api/libgcc.a</lib>
+  <lib>w32api/libmsvcrt.a</lib>
+  <lib>w32api/libkernel32.a</lib>
+  <lib>w32api/libuser32.a</lib>
+  <lib>w32api/libadvapi32.a</lib>
+  <lib>w32api/libshell32.a</lib>
+  <jar>D:\Java desktop\ChatCheese\ChatCheese.jar</jar>
+  <outfile>D:\Java desktop\ChatCheese\ChatCheese.exe</outfile>
+  <errTitle>Fetal error</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl>sites.google.com/view/ytosko</supportUrl>
+  <stayAlive>true</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>D:\Java desktop\ChatCheese\Icons\icons8_chat.ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.7.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.5.0.0</fileVersion>
+    <txtFileVersion>April 20202</txtFileVersion>
+    <fileDescription>A multi threaded chat server</fileDescription>
+    <copyright>Ytosko</copyright>
+    <productVersion>1.5.0.0</productVersion>
+    <txtProductVersion>April 2020</txtProductVersion>
+    <productName>ChatCheese</productName>
+    <companyName>Ytosko</companyName>
+    <internalName>ChatCheese</internalName>
+    <originalFilename>Chatcheese.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
