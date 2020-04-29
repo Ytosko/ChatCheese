@@ -1,6 +1,6 @@
 # ChatCheese v1.5.0.1
 
-## Developed by saiki sarkar [fahim Hossain Saiki, 2016133091] and tarequl nabi tareq [2016133027]
+## Developed by Saiki Sarkar [Fahim Hossain Saiki, 2016133091] and Tarequl Nabi Tareq [2016133027]
 
 ### Technologies used:
 
